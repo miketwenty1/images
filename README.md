@@ -1,2 +1,2 @@
 # images
-imagehosting probably not a good idea
+random files ..sometimes images
